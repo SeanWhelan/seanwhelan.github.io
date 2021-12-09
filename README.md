@@ -1,1 +1,0 @@
-# seanwhelan.github.io
