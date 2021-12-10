@@ -94,7 +94,7 @@ body {
 }
 
 .line {
-	height: calc(100% + 20px);
+	height: calc(100% + 19px);
 	width: 2px;
 	background-color: rgba(0, 0, 0, 0.3);
 	position: absolute;
